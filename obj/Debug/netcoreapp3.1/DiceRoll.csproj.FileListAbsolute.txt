@@ -1,0 +1,11 @@
+D:\ITEA\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.exe
+D:\ITEA\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.deps.json
+D:\ITEA\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.runtimeconfig.json
+D:\ITEA\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.runtimeconfig.dev.json
+D:\ITEA\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.dll
+D:\ITEA\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.pdb
+D:\ITEA\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.AssemblyInfoInputs.cache
+D:\ITEA\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.AssemblyInfo.cs
+D:\ITEA\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.dll
+D:\ITEA\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.pdb
+D:\ITEA\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.csprojAssemblyReference.cache
